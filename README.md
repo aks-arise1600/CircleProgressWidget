@@ -19,3 +19,7 @@ CircleProgressWidget is a example of Circular Progress Bar widget
 	qmake ..
 	make
 
+ ### Output of UI 
+
+ ![](https://github.com/aks-arise1600/CircleProgressWidget/blob/main/output/Result01.gif)
+
